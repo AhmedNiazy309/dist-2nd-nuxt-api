@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/post/6", {data:[{}],fetch:[],mutations:[["updateSelectedPost",{title:"Ahmed Elbesy",body:"quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",id:6}]]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/post/2/edit", {data:[{}],fetch:[],mutations:[]});
